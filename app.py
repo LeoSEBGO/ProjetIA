@@ -57,7 +57,7 @@ st.markdown("""
     <div>
         <h3>Membres du groupe</h3>
         <p>1. SEBGO Leonard</p>
-        <p>2. Mano Honorine</p>
+        <p>2. SAWADOGO Honorine</p>
     </div>
     """, unsafe_allow_html=True)
 
