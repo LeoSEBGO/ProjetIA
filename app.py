@@ -54,6 +54,11 @@ st.markdown("""
         <h2>Projet IFOAD</h2>
         <p>Développé sous la supervision du Dr Arthur Sawadogo</p>
     </div>
+    <div>
+        <h3>Membres du groupe</h3>
+        <p>1. SEBGO Leonard</p>
+        <p>2. Mano Honorine</p>
+    </div>
     """, unsafe_allow_html=True)
 
 # Sidebar pour la navigation
