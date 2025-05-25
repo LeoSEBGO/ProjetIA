@@ -95,10 +95,6 @@ L'interface utilise un design futuriste avec :
 - Développé sous la supervision du Dr Arthur Sawadogo
 - IFOAD - Institut de Formation Ouverte et à Distance
 
-## 📝 Licence
-
-Ce projet est sous licence [insérer type de licence].
-
 ## 🙏 Remerciements
 
 - Dataset Heart Disease UCI
